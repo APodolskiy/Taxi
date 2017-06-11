@@ -18,5 +18,10 @@
 Первые 6 недель посвящены исследованию и обработке данных, отображению информации на карте, построению моделей ARIMA, 
 регрессионной модели и выбору финальной модели. В последней 7 неделей приводится демо с использованием интерактивных графиков.
 
-
-
+* [Неделя 1](https://github.com/APodolskiy/Taxi/blob/master/Taxi%20Week%201.ipynb) -- знакомство с данными и аггрегация,
+* [Неделя 2](https://github.com/APodolskiy/Taxi/blob/master/Taxi%20Week%202_1.ipynb) -- работа с геоданными,
+* [Неделя 3](https://github.com/APodolskiy/Taxi/blob/master/Taxi%20Week%203.ipynb) -- прогнозирование рядов со сложной сезонностью, использование модели ARIMA,
+* [Неделя 4](https://github.com/APodolskiy/Taxi/blob/master/Taxi%20Week%204.ipynb) -- прогнозирование большого количества рядов, кластеризация географических зон и ARIMA для каждой из них,
+* [Неделя 5](https://github.com/APodolskiy/Taxi/blob/master/Taxi%20Week%205.ipynb) -- прогнозирование с помощью регрессии,
+* [Неделя 6](https://github.com/APodolskiy/Taxi/blob/master/Taxi%20Week%206.ipynb) -- финальная модель (xgboost regressor),
+* [Неделя 7](https://github.com/APodolskiy/Taxi/blob/master/Taxi%20Week%207%20Final.ipynb) -- демонстрация результатов проекта.
