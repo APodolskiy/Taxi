@@ -27,3 +27,6 @@
 * [Неделя 7](https://github.com/APodolskiy/Taxi/blob/master/Taxi%20Week%207%20Final.ipynb) -- демонстрация результатов проекта.
 * [Demo 1](https://github.com/APodolskiy/Taxi/blob/master/video1.gif) -- gif-файл с демонстрацией работы ноутбука 7 недели
 * [Demo 2](https://github.com/APodolskiy/Taxi/blob/master/video2.gif) -- gif-файл с демонстрацией работы ноутбука 7 недели
+
+![Demo 1](https://github.com/APodolskiy/Taxi/blob/master/video1.gif)
+![Demo 2](https://github.com/APodolskiy/Taxi/blob/master/video2.gif)
